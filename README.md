@@ -1,6 +1,6 @@
 # ***** MultiPose
 
-This is the repository that contains source code and demo media for the [Multipose website](https://thermal_posing.github.io).
+This is the repository that contains source code and demo media for the [Multipose website](https://vicente-gonzalez-ruiz.github.io/thermal_posing.github.io/).
 
 If you find Nerfies useful for your research work, please cite:
 ```
