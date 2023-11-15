@@ -1,14 +1,14 @@
-# Nerfies
+# ***** MultiPose
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+This is the repository that contains source code and demo media for the [Multipose website](https://thermal_posing.github.io).
 
-If you find Nerfies useful for your work please cite:
+If you find Nerfies useful for your research work, please cite:
 ```
 @article{park2021nerfies
-  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
-  title     = {Nerfies: Deformable Neural Radiance Fields},
-  journal   = {ICCV},
-  year      = {2021},
+  author    = {Lupión, M. and Gonz ́alez-Ruiz, V. and Sanjuan, Juan F. and M. Ortigosa, Pilar},
+  title     = {*** Multipose},
+  journal   = {IEEE ...},
+  year      = {2024},
 }
 ```
 
