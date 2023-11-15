@@ -5,7 +5,7 @@ This is the repository that contains source code and demo media for the [Multipo
 If you find Nerfies useful for your research work, please cite:
 ```
 @article{park2021nerfies
-  author    = {Lupión, M. and Gonz ́alez-Ruiz, V. and Sanjuan, Juan F. and M. Ortigosa, Pilar},
+  author    = {Lupión, M. and González-Ruiz, V. and Sanjuan, Juan F. and M. Ortigosa, Pilar},
   title     = {*** Multipose},
   journal   = {IEEE ...},
   year      = {2024},
